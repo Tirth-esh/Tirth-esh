@@ -27,7 +27,7 @@ A responsive college society website built using **HTML**, **CSS**, and **JavaSc
 👉 [Live Project](https://dcg-olive.vercel.app/)  
 
 ### 2️⃣ **Venue Booking System DTU**  
-A complete venue booking platform using **React.js** and **Spring Boot**, digitizing the university's booking process and reducing admin work by 60%.  
+A complete venue booking platform using **React.js** and **Spring Boot**, digitizing the university's booking process.  
 👉 [Live Project](https://vbs-dcg.vercel.app/)  
 
 ---
