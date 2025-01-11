@@ -15,7 +15,7 @@ With a strong foundation in **Data Structures and Algorithms**, I bring a proble
 ## 🔧 Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
 - **Backend:** Spring Boot, Java  
-- **Languages:** C, C++, Python, Java  
+- **Languages:** C, C++, Python, Java, Javascript
 - **Tools & Platforms:** Git, GitHub, Vite, VS Code  
 - **Specialties:** Full-Stack Development, Responsive Design, User Experience Optimization  
 
